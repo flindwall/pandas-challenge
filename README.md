@@ -6,3 +6,10 @@ My "Overall Passing Percentage" calculations were done by calculating the number
 
 Conclusions:
 
+The following DataFrames were the most insightful:
+      Scores by Spending
+      Scores by Size
+      Scores by School Type
+      
+Overall passing percentage rates (students who earned a passing grade on both reading and math) were substantially higher in charter schools as opposed
+to district schools. In addition, smaller schools performed much better than larger schools.
